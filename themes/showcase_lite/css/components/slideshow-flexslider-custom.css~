@@ -1,0 +1,10 @@
+/* custom add because prev and next arrows were cut from the bottom */
+.flex-prev a {
+    height: 50px;
+    
+}
+
+.flex-next a {
+    height: 50px;
+    
+}

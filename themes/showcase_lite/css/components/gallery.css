@@ -1,0 +1,39 @@
+.view-gallery {
+    margin-top: 1em;
+}
+
+.view-gallery img {
+    width: 100%;
+    border: 3px solid #337ab7;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.view-gallery img:hover {
+    border-color: #ddd;
+}
+
+.view-gallery a {
+    color: ##28df35;
+    text-decoration: none;
+}
+
+.view-gallery p {
+    margin: 0 0 10px;
+    display: inline;
+    position: relative;
+    left: 6px;
+    background: rgba(17, 17, 17, .5);
+    color: #fff;
+    padding: 0.4em;
+    border-radius: 10px;
+}
+
+.view-gallery div.views-field-title {
+    position: absolute;
+    top: 80%;
+}
+
+.view-gallery div.views-row {
+    margin-top: 10px;
+}

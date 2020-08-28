@@ -1,0 +1,38 @@
+.flex-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+}
+
+.field-content-title {
+    position: absolute;
+    top: 44%;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    font-size: 30px;
+}
+
+#carousel li {
+    margin-right: 5px;
+}
+
+#carousel-events li {
+    margin-right: 5px;
+}
+
+.col-md-12 .block {
+    padding-bottom: 0px;
+    
+}
+
+@media (max-width: 480px) {
+    .flex-caption {
+	position: static;
+	background: #000;
+    }
+}
