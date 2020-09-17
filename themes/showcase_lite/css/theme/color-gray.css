@@ -291,11 +291,17 @@ a.button.button--hover-style-2:before,
 }
 
 /* components: menu */
+
+/* disabling this for menu override */
+/*
 .header-container ul.menu li a:hover,
 .header-container ul.menu li a.is-active,
 .header-container ul.menu li.active-trail > a {
   color: #505050;
 }
+*/
+
+
 .header-container .sf-menu li.sfHover > a {
   color: #505050;
 }

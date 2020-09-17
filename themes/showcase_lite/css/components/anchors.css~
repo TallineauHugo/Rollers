@@ -1,0 +1,19 @@
+a.anchor-galerie {
+    display: block;
+    position: relative;
+    top: -400px;
+    visibility: hidden;
+}
+
+a.anchor-evenements {
+    display: block;
+    position: relative;
+    top: -450px;
+    visibility: hidden;
+}
+
+a#tarifs-horaires {
+    display: block;
+    position: relative;
+    top: -430px;
+}

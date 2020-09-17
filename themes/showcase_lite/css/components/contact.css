@@ -1,0 +1,19 @@
+#block-contact {
+    padding-top: 50px;
+}
+
+.view-empty {
+    display: none;
+}
+
+.feed-icons {
+    display: none;
+}
+
+.anchor-contact {
+    color: #023c5c;
+}
+
+.anchor-contact p {
+    color: #023c5c;
+}

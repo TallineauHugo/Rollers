@@ -16,3 +16,11 @@
 #block-views-block-slideshow-block-1 {
     padding-bottom: 50px;
 }
+
+.flexslider-full-bordered {
+    border: 1px solid black;
+}
+
+.views-slideshow-controls-bottom .views-slideshow-pager-bullets li.active {
+    background-color: #636363;
+}

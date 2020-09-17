@@ -1,0 +1,11 @@
+#block-contact {
+    padding-top: 50px;
+}
+
+.view-empty {
+    display: none;
+}
+
+.feed-icons {
+    display: none;
+}

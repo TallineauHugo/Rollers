@@ -1,0 +1,66 @@
+.views-align-center {
+    width: 50%;
+    background-color: #abacad;
+}
+
+.views-field-field-tarifs {
+    vertical-align: middle;
+}
+/*
+.table-bordered {
+    border: none;
+}
+
+.table-bordered>thead>tr>th {
+    border: none;
+}
+
+.table-bordered>tbody>tr>td {
+    border: none;
+}
+
+.table tr:first-child th:last-child {
+    border-top-right-radius: 0px;
+}
+
+.table tr:last-child td:first-child {
+    border-bottom-left-radius: 0px;
+}
+
+.table tr:last-child td:last-child {
+    border-bottom-right-radius: 0px;   
+}
+
+.table tr ~ tr:last-child th:first-child {
+    border-bottom-left-radius: 0px;
+}
+*/
+.views-field-field-tarifs table {
+    border: none;
+    position: relative;
+    top: 850px;
+}
+
+.views-field-field-tarifs td {
+    width: 50%;
+    text-align: center;
+}
+
+.views-field-field-horaires th {
+    width: 50%;
+    text-align: center;
+}
+
+.views-field-field-horaires td {
+    text-align: center;
+}
+
+.views-field-field-tarifs th {
+    text-align: center;
+}
+
+/*
+.views-field-field-tarifs td {
+    text-align: center;
+}
+*/

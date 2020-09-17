@@ -1,0 +1,8 @@
+.custom-title {
+    color: #e21881;
+    text-align: center;
+}
+
+.title {
+    color: #e21881;
+}

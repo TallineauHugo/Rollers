@@ -1,0 +1,14 @@
+.custom-title {
+    color: #e21881;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 2%;
+}
+
+.title {
+    color: #e21881;
+}
+
+.col-md-12 h2.title {
+    font-size: 45px;
+}

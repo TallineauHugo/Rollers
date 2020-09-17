@@ -1,0 +1,10 @@
+.text-centered {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-blue {
+    color: #023c5c;
+}

@@ -806,3 +806,9 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_dtOBa0JVCLZjFFNHSwiCngGdR2lhydNONWzxfSnES5kKc2DwDv5PjE-CRx_h75PPjoIzx0Bqjg/sync';
+
+
+$settings['trusted_host_patterns'] = [
+     '^www\.example\.com$',
+     '^localhost$'
+];

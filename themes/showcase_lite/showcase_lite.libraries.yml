@@ -73,6 +73,14 @@ global-styling:
       css/components/gallery.css: {}
       css/components/slideshow-flexslider.css: {}
       css/components/slideshow-flexslider-custom.css: {}
+      css/components/color.css: {}
+      css/components/menu-custom.css: {}
+      css/components/title.css: {}
+      css/components/text.css: {}
+      css/components/contact.css: {}
+      css/components/tarifs-horaires.css: {}
+      css/components/anchors.css: {}
+      css/components/map.css: {}
 
 to-top:
   version: VERSION
